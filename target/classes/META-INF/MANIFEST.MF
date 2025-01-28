@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: пк
+Build-Jdk: 17.0.6
+Main-Class: maven_test.Main
+Created-By: Maven Integration for Eclipse
+
